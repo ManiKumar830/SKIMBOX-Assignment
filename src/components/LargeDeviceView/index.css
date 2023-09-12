@@ -1,0 +1,109 @@
+.large-planItem-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 30%;
+  margin: 10px;
+  padding: 20px;
+}
+.large-plan-text {
+  font-family: system-ui;
+  color: #000000;
+  font-size: 30px;
+  margin-top: 0px;
+  margin-left: 10px;
+  font-weight: 700;
+}
+.large-subHeading {
+  font-family: system-ui;
+  color: #000000;
+  font-size: 15px;
+  margin-top: 0px;
+  margin-left: 10px;
+  font-weight: 700;
+}
+.large-description {
+  font-family: system-ui;
+  color: #000000;
+  font-size: 15px;
+  margin-top: 0px;
+  margin-left: 10px;
+  font-weight: 500;
+}
+.price-container {
+  display: flex;
+}
+.large-price-text {
+  font-family: system-ui;
+  color: #000000;
+  font-size: 40px;
+  margin-top: 0px;
+  margin-left: 10px;
+  font-weight: 700;
+}
+.large-INR-text {
+  font-family: system-ui;
+  font-size: 17px;
+  align-self: flex-start;
+  color: #000000;
+}
+.large-green-container {
+  background-color: #e1f0dd;
+
+  border-top: 2px solid #77d156;
+  border-bottom: 2px solid #77d156;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+.large-green-text {
+  text-align: center;
+  font-family: system-ui;
+  color: #000000;
+  font-size: 15px;
+  font-weight: 700;
+}
+.plan-details-container {
+  padding: 20px;
+}
+.plan-text-large {
+  font-family: system-ui;
+  color: #000000;
+  font-size: 17px;
+  font-weight: 700;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.details-container {
+  display: flex;
+}
+.large-tick-icon {
+  font-size: 20px;
+  color: #77d156;
+  margin-right: 20px;
+  margin-top: 0px;
+}
+.large-details-text {
+  font-family: system-ui;
+  color: #000000;
+  font-weight: 500;
+  font-size: 17px;
+  margin-top: 0px;
+}
+.large-try-button {
+  align-self: center;
+  width: 80%;
+  font-family: system-ui;
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 600;
+  padding: 15px;
+  border-radius: 35px;
+  margin-top: 30px;
+}
+
+.border-change {
+  border: 3px solid #77d156;
+}

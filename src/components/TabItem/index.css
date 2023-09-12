@@ -1,0 +1,17 @@
+.li-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-right: 1px solid gray;
+  width: 32%;
+}
+.tab-text {
+  font-family: 'Roboto';
+  color: #000000;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.topColor {
+  border-top: 2px solid #47a819;
+}
