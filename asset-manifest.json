@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SKIMBOX-Assignment/static/css/main.4cd49dea.chunk.css",
+    "main.js": "/SKIMBOX-Assignment/static/js/main.04547c53.chunk.js",
+    "main.js.map": "/SKIMBOX-Assignment/static/js/main.04547c53.chunk.js.map",
+    "runtime-main.js": "/SKIMBOX-Assignment/static/js/runtime-main.8e434fe7.js",
+    "runtime-main.js.map": "/SKIMBOX-Assignment/static/js/runtime-main.8e434fe7.js.map",
+    "static/js/2.306e9e79.chunk.js": "/SKIMBOX-Assignment/static/js/2.306e9e79.chunk.js",
+    "static/js/2.306e9e79.chunk.js.map": "/SKIMBOX-Assignment/static/js/2.306e9e79.chunk.js.map",
+    "index.html": "/SKIMBOX-Assignment/index.html",
+    "static/css/main.4cd49dea.chunk.css.map": "/SKIMBOX-Assignment/static/css/main.4cd49dea.chunk.css.map",
+    "static/js/2.306e9e79.chunk.js.LICENSE.txt": "/SKIMBOX-Assignment/static/js/2.306e9e79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e434fe7.js",
+    "static/js/2.306e9e79.chunk.js",
+    "static/css/main.4cd49dea.chunk.css",
+    "static/js/main.04547c53.chunk.js"
+  ]
+}
