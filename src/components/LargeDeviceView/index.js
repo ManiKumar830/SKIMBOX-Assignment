@@ -1,3 +1,4 @@
+// eslint-disable-next-line import/no-extraneous-dependencies
 import {TiTick} from 'react-icons/ti'
 
 import './index.css'
